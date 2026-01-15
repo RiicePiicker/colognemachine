@@ -1,4 +1,4 @@
-import os, json, numpy as np, pandas as pd, sys, requests, groq
+import os, json, numpy as np, pandas as pd, sys, requests
 from dotenv import load_dotenv
 from typing import Dict
 
